@@ -4,10 +4,7 @@
         "details": [
             {
                 "appIDs":[
-                    "7J4U792NQT.im.vector.app",
-                    "7J4U792NQT.io.element.elementx",
-                    "7J4U792NQT.io.element.elementx.nightly",
-                    "7J4U792NQT.io.element.elementx.pr"
+                    "649RMX27J7.com.wepoc2.app"
                 ],
                 "paths": [
                     "*"
@@ -17,10 +14,7 @@
     },
     "webcredentials": {
         "apps": [
-            "7J4U792NQT.im.vector.app",
-            "7J4U792NQT.io.element.elementx",
-            "7J4U792NQT.io.element.elementx.nightly",
-            "7J4U792NQT.io.element.elementx.pr"
+            "649RMX27J7.com.wepoc2.app"
         ]
     }
 }
