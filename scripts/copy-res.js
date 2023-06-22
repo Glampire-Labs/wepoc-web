@@ -64,6 +64,7 @@ const INCLUDE_LANGS = [
 // "dest/b/...".
 const COPY_LIST = [
     ["res/apple-app-site-association", "webapp"],
+    ["res/apple-app-site-association", "webapp/.well-known"],
     ["res/manifest.json", "webapp"],
     ["res/sw.js", "webapp"],
     ["res/welcome.html", "webapp"],
